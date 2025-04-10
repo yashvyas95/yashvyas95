@@ -30,6 +30,12 @@ I am a technology enthusiast and Software Engineer passionate about developing r
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
 
+## ✍️ Present Focus Areas
+- AI AGENT utilization
+- DSA Practice - Competition Participation
+- System Design Practice
+
+
 ## ✍️ Latest Blog Posts
 [PlaceHolder]
 
