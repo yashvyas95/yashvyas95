@@ -31,11 +31,11 @@ I am a technology enthusiast and Software Engineer passionate about developing r
 
 
 ## ✍️ Latest Blog Posts
-
+[PlaceHolder]
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yashvyas95&theme=default)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=yashvyas95)]
 
 ## Recent Activity
 
