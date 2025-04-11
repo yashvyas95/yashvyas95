@@ -41,7 +41,7 @@ I am a technology enthusiast and Software Engineer passionate about developing r
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=yashvyas95)]
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=yashvyas95)
 
 ## Recent Activity
 
