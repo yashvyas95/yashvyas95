@@ -37,7 +37,7 @@ I am a technology enthusiast and Software Engineer passionate about developing r
 
 
 ## ✍️ Latest Blog Posts
-[PlaceHolder]
+AWS Machine Learning Speciality prep Guide (https://github.com/yashvyas95/AWS_MLS_GUIDE)
 
 ## 📊 GitHub Stats
 
