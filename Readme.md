@@ -31,7 +31,7 @@ I am a technology enthusiast and Software Engineer passionate about developing r
 
 
 ## :notebook: Present Focus Areas
-- AI AGENT utilization
+- Multi AI Agent Utilization for real-world problem solving.
 - DSA Practice - Competition Participation
 - System Design Practice
 
