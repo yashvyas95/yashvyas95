@@ -1,7 +1,7 @@
 # Yash Vyas 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashvyas0) 
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/yashvyas95/)
 ## 👨‍💻 About Me
 
 I am a technology enthusiast and Software Engineer passionate about developing robust, scalable solutions using microservices, cloud-native technologies, and machine learning. With a mission to bridge technology and business value through innovation, I specialize in solving complex engineering challenges to deliver exceptional digital experiences
@@ -40,9 +40,10 @@ I am a technology enthusiast and Software Engineer passionate about developing r
 AWS Machine Learning Speciality prep Guide (https://github.com/yashvyas95/AWS_MLS_GUIDE)
 
 ## 📊 GitHub Stats
-
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=yashvyas95)
 
+## LeetCode Stats
+![](https://leetcard.jacoblin.cool/yashvyas95?ext=contest)
 ## Recent Activity
 
 [▶ Full activity log](https://github.com/yashvyas95)
