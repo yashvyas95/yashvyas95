@@ -29,6 +29,9 @@ I am a technology enthusiast and Software Engineer passionate about developing r
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
+**Messaging Queue**
+![Kafka]([https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white))
+
 
 ## :notebook: Present Focus Areas
 - Multi AI Agent Utilization for real-world problem solving.
