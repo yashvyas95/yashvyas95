@@ -53,13 +53,13 @@ I am a technology enthusiast and Software Engineer passionate about developing r
 
 
 ## ✍️ Latest Blog Posts
-AWS Machine Learning Speciality prep Guide (https://github.com/yashvyas95/AWS_MLS_GUIDE) \
-Dynamic Programming - Deep Dive (https://github.com/yashvyas95/worldOfPython/blob/e10480141e2def818094fd2663a1fcd8016cd64a/Dynamic_Programming_DeepDive/Readme.md)
+[AWS Machine Learning Speciality prep Guide](https://github.com/yashvyas95/AWS_MLS_GUIDE) \
+[Dynamic Programming - Deep Dive](https://github.com/yashvyas95/worldOfPython/blob/e10480141e2def818094fd2663a1fcd8016cd64a/Dynamic_Programming_DeepDive/Readme.md)
 
 ## Books Recommendation
-Deep Work by Cal Newport - (https://a.co/d/dguIDYw) \
-Design Patterns: Elements of Reusable Object-Oriented Software 1st Edition by Erich Gamma (Author), Richard Helm (Author), Ralph Johnson (Author), John Vlissides (Author) (https://a.co/d/hw3xlJa) \
-Effective Java 3rd Edition by Joshua Bloch (Author) (https://a.co/d/6sptJbn) \
+[Deep Work by Cal Newport](https://a.co/d/dguIDYw) \
+[Design Patterns: Elements of Reusable Object-Oriented Software 1st Edition by Erich Gamma (Author), Richard Helm (Author), Ralph Johnson (Author), John Vlissides (Author)](https://a.co/d/hw3xlJa) \
+[Effective Java 3rd Edition by Joshua Bloch (Author)](https://a.co/d/6sptJbn)
 
 
 ## 📊 GitHub Stats
