@@ -51,6 +51,7 @@ I am a technology enthusiast and Software Engineer passionate about developing r
 - DSA Practice - Competition Participation
 - System Design Practice
 - 3js Portfolio [Research]
+- Blender 3d Model creation [Learning]
 
 
 ## ✍️ Latest Blog Posts
