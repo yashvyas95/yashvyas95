@@ -50,8 +50,8 @@ I am a technology enthusiast and Software Engineer passionate about developing r
 - Multi AI Agent Utilization for real-world problem solving.
 - DSA Practice - Competition Participation
 - System Design Practice
-- 3js Portfolio [Research]
-- Blender 3d Model creation [Learning]
+- 3js Portfolio [In Progress]
+- Blender 3d Model creation [In Progress]
 
 
 ## ✍️ Latest Blog Posts
