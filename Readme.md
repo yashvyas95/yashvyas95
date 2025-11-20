@@ -46,6 +46,10 @@ I am a technology enthusiast and Software Engineer passionate about developing r
 **Code Coverage**\
 [![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=fff)](#)
 
+## ✍️ Currently Working On
+[Old Repo Audit & Enhancement]
+[Flagship Project - Payment Platform Simulator]
+
 ## ✍️ Latest Blog Posts
 [Design and Architecture Pattern Reference Guide](https://github.com/yashvyas95/CheatSheet_Collection/blob/main/Design%20and%20architecture%20patterns%20reference%20guide.md)\
 [AWS Machine Learning Speciality prep Guide](https://github.com/yashvyas95/AWS_MLS_GUIDE) \
