@@ -51,7 +51,7 @@ When I'm not debugging Kubernetes pods or optimizing database queries, I'm proba
 * Old Repo Audit & Enhancement
 * Payment Platform Simulator
 
-**Certifications**  
+## Certifications ##  
 AWS Machine Learning Specialty | Certified Kubernetes Application Developer | AWS Solutions Architect Associate
 
 ## ✍️ Latest Blog Posts
