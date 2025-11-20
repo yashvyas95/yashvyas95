@@ -52,7 +52,9 @@ When I'm not debugging Kubernetes pods or optimizing database queries, I'm proba
 * Payment Platform Simulator
 
 ## Certifications ##  
-AWS Machine Learning Specialty | Certified Kubernetes Application Developer | AWS Solutions Architect Associate
+* AWS Machine Learning Speciality
+* Certified Kubernetes Application Developer
+* AWS Solutions Architect Associate
 
 ## ✍️ Latest Blog Posts
 [Design and Architecture Pattern Reference Guide](https://github.com/yashvyas95/CheatSheet_Collection/blob/main/Design%20and%20architecture%20patterns%20reference%20guide.md)\
