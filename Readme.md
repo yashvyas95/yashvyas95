@@ -4,8 +4,9 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/yashvyas95/)
 ## 👨‍💻 About Me
 
-I am a technology enthusiast and Software Engineer passionate about developing robust, scalable solutions using microservices, cloud-native technologies, and machine learning. With a mission to bridge technology and business value through innovation, I specialize in solving complex engineering challenges to deliver exceptional digital experiences
-
+I build systems that need to work when millions of dollars are on the line. Most of my time is spent making distributed systems fast, reliable, and secure—the kind where a 200ms delay actually matters and downtime isn't an option.
+I've designed authorization platforms that handle 5,000+ transactions per second while staying under that 200ms SLA, worked through the joys of PCI compliance, and learned that the best architecture is the one that doesn't wake you up at 3 AM. I geek out over microservices patterns, event-driven systems, and finding that sweet spot where performance meets maintainability.
+When I'm not debugging Kubernetes pods or optimizing database queries, I'm probably working through LeetCode problems or reading about system design patterns. Coffee-fueled coding sessions are my default mode.
 
 ## 🛠️ Tech Stack
 
@@ -47,8 +48,8 @@ I am a technology enthusiast and Software Engineer passionate about developing r
 [![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=fff)](#)
 
 ## ✍️ Currently Working On
-[Old Repo Audit & Enhancement]
-[Flagship Project - Payment Platform Simulator]
+* Old Repo Audit & Enhancement
+* Payment Platform Simulator
 
 ## ✍️ Latest Blog Posts
 [Design and Architecture Pattern Reference Guide](https://github.com/yashvyas95/CheatSheet_Collection/blob/main/Design%20and%20architecture%20patterns%20reference%20guide.md)\
