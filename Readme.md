@@ -68,7 +68,7 @@ When I'm not debugging Kubernetes pods or optimizing database queries, I'm proba
 
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=yashvyas95)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashvyas95&hide_rank=true)
 
 ## LeetCode Stats
 ![](https://leetcard.jacoblin.cool/yashvyas95?ext=contest)
