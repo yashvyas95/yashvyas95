@@ -52,7 +52,6 @@ When I'm not debugging Kubernetes pods or optimizing database queries, I'm proba
 
 ## 🚀 Currently Working On
 
-* Old Repo Audit & Enhancement
 * Payment Platform Simulator
 
 ## 🎓 Certifications
