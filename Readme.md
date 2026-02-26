@@ -52,7 +52,7 @@ When I'm not debugging Kubernetes pods or optimizing database queries, I'm proba
 
 ## 🚀 Currently Working On
 
-* Payment Platform Simulator
+* Roller Coaster Tycoon 2 MultiPlayer and other possible features.
 
 ## 🎓 Certifications
 
