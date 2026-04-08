@@ -52,7 +52,6 @@ When I'm not debugging Kubernetes pods or optimizing database queries, I'm proba
 
 ## 🚀 Currently Working On
 
-* Roller Coaster Tycoon 2 MultiPlayer and other possible features.
 * Multi Agent Infra -> Phase 2
 
 ## 🎓 Certifications
