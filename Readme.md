@@ -69,7 +69,7 @@ The thing I keep coming back to is trust. Not "can an agent do something smart o
 | **Multi-Agent Infrastructure** | `running` | Autonomous agents with memory, tool execution, and cross-agent coordination on dedicated hardware |
 | **Agent Dashboard** | `running` | Central UI for monitoring agent sessions, knowledge graphs, timelines, and ops |
 | **Custom Agent Runtime** | `running` | Built from scratch — multi-model routing, Telegram/Gmail integration, structured fallback logic |
-| **Open Source Contributions** | `active` | Contributing to OpenRCT2 (competitive multiplayer mode) |
+| **Open Source Contributions** | `active` | |
 
 ---
 
