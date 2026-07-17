@@ -11,15 +11,15 @@
 
 I build systems that think and act independently.
 AWS Solutions Architect · AWS ML Specialty · CKAD → github.com/yashvyas95
-—
+
 I run a fleet of AI agents 24/7 on hardware I own. An orchestrator coordinates ten specialists that keep data fresh, generate insights, research, forecast, write, ship code, and heal themselves when something drifts — on scheduled loops and on demand from my phone. No one babysits them. I built the orchestration and control plane on top of an open agent runtime, and it runs in production against a real data platform, not a demo I wheel out at meetups.
-—
+
 That platform is the point of it all: a self-hosted, multi-source ingestion system — markets, news, weather, research, books — on Spring Boot, React, and Postgres, fully Dockerized. A local LLM turns the raw data into insights and a nightly knowledge graph, all on my own infrastructure.
-—
+
 Before any of this, 5+ years in fintech and enterprise engineering: payment systems, Java microservices, ML pipelines, the usual distributed-systems headaches. Environments where if something breaks at 2AM, your phone rings. That shaped how I build AI systems too — observability, fallback logic, structured decision-making. None of it is optional when your agents run unsupervised.
-—
+
 The thing I keep coming back to is trust. Not "can an agent do something smart once" but "can it keep doing the right thing when nobody's looking." That's a harder problem than most people realize — and it's mostly an infrastructure problem, not a model problem.
-—
+
 Contributing to open source when I can. Always happy to talk with anyone working on agent systems or applied AI in regulated industries.
 
 ---
